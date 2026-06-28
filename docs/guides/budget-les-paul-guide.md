@@ -14,6 +14,8 @@ title: 저가 레스폴 타입 기타
 
 이미지는 **해당 행의 모델과 공식 페이지가 맞는 경우에만** 넣었습니다. 공식 이미지 확인이 애매한 모델은 억지로 이미지를 붙이지 않았습니다.
 
+<div class="table-scroll" markdown="1">
+
 | 이미지/출처 | 구간 | 브랜드/모델 | 신품가 참고 | 목표 중고가 | 판단 |
 |---|---|---|---:|---:|---|
 | 공식 이미지 미확인 | 최저가 | Dame Mind 200 | 23.9만 원 | 10~16만 원 | 정말 막 쓰는 연습용. 모델/연식별 형태 확인 필요 |
@@ -36,6 +38,8 @@ title: 저가 레스폴 타입 기타
 | <a href="https://sire-korea.com/product/sire-larry-carlton-l7-new-gen/281/"><img class="model-thumb" src="https://sire-korea.com/web/product/big/202603/acf8444d24ef9c206af0e5c2fc19747d.jpg" alt="Sire Larry Carlton L7 New Gen official product image"><span>Sire 공식</span></a> | 고가 후보 | Sire L7 New Gen | 89.5만 원 | 45만 원 이상 | 좋은 기타지만 연습용 목적에는 과할 수 있음 |
 | 공식 이미지 미확인 | 고가 후보 | Gopherwood LP Classic VII/IX | 79~110만 원 | 50만 원 이상 | 메인급에 가까움. 방치형 목적과는 거리 있음 |
 | 공식 이미지 미확인 | 모델별 판단 | Wildwood WLP Standard/FM/QM | 40~60만 원 | 20~35만 원 | 모델별 스펙 차이가 커서 개별 확인 필요 |
+
+</div>
 
 ## 빠른 판단
 
