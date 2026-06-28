@@ -16,28 +16,28 @@ title: 저가 레스폴 타입 기타
 
 <div class="table-scroll" markdown="1">
 
-| 이미지/출처 | 구간 | 브랜드/모델 | 신품가 참고 | 목표 중고가 | 판단 |
-|---|---|---|---:|---:|---|
-| 공식 이미지 미확인 | 최저가 | Dame Mind 200 | 23.9만 원 | 10~16만 원 | 정말 막 쓰는 연습용. 모델/연식별 형태 확인 필요 |
-| 공식 이미지 미확인 | 최저가 | Corona CLP Standard | 34.8~42만 원 | 12~22만 원 | 전기계통 확인 필수. 가격이 낮으면 실사용 후보 |
-| <a href="https://www.espguitars.com/products/19094-ec-10"><img class="model-thumb" src="https://cdn.connectsites.net/user_files/esp/product_images/000/023/124/original.png?1484772987&amp;height=1200&amp;width=1200" alt="LTD EC-10 official product image"><span>ESP/LTD 공식</span></a> | 최저가 | LTD EC-10 | USD 199급 | 10~20만 원 | 메탈 싱글컷 입문형. LP 감성보다는 모던 성향 |
-| <a href="https://en.hexguitars.com/skin-skin26/product/h300-sghb/646/category/137/display/1/"><img class="model-thumb" src="https://en.hexguitars.com/web/product/big/202404/e9684ab31bf7a6262c08009607c09bc1.jpg" alt="HEX H300 official product image"><span>HEX 공식</span></a> | 입문 핵심 | HEX H300 | 42.5만 원 | 18~23만 원 | 20만 원대 초반이면 강한 후보 |
-| 공식 이미지 미확인 | 입문 핵심 | Spear RD-250/RD-250A | 43~48만 원 | 18~26만 원 | 방 연습용 핵심 후보. 넥/프렛 상태 우선 |
-| 공식 이미지 미확인 | 입문 핵심 | Swing MLP-100 | 42~46만 원 | 18~24만 원 | 슬림하고 가벼운 편. 전통 LP 질감은 덜할 수 있음 |
-| <a href="https://www.cortguitars.com/dp/cr250/"><img class="model-thumb" src="https://www.cortguitars.com/wp-content/uploads/2024/04/cort-cr-cr250-electric-guitar-share.jpg" alt="Cort CR250 official product image"><span>Cort 공식</span></a> | 입문 핵심 | Cort CR250 | 47.9만 원 | 20~27만 원 | 가장 무난한 국내 브랜드 후보 |
-| 공식 이미지 미확인 | 입문 핵심 | Beyond Modern LP Active-Lite | 25~32만 원 | 15~22만 원 | 액티브/메탈 성향. 역할 중복 주의 |
-| <a href="https://www.dame.co.kr/bbs/content.php?co_id=lp5">Dame 공식 상세</a> | 30만 원 전후 | Dame LP5 | 57.8만 원 | 25~32만 원 | 공식 이미지는 긴 상세페이지라 썸네일 미사용. 상태 좋은 30만 원 전후면 매력적 |
-| 공식 이미지 미확인 | 30만 원 전후 | Tokai China Love Rock | 확인 필요 | 25~30만 원 | 일본제 Tokai와 구분 필요. 케이스 없으면 감점 |
-| <a href="https://www.gibson.com/products/epiphone-les-paul-special-satin-e1-vintage-sunburst"><img class="model-thumb" src="https://www.gibson.com/cdn/shop/files/ENSVVSVCH1_1_Body.png?v=1746129754" alt="Epiphone Les Paul Special Satin E1 official product image"><span>Epiphone 공식</span></a> | 30만 원 전후 | Epiphone Les Paul Special/Studio LT 계열 | 30~50만 원 | 15~25만 원 | 저가 Epiphone 계열. 세부 모델명과 생산연도 확인 필요 |
-| <a href="https://www.cortguitars.com/dp/cr300/"><img class="model-thumb" src="https://www.cortguitars.com/wp-content/uploads/2024/04/cort-cr-cr300-electric-guitar-share.jpg" alt="Cort CR300 official product image"><span>Cort 공식</span></a> | 중급 세컨 | Cort CR300 | 69만 원 이상 | 30~40만 원 | 좋지만 방치형 목적에는 살짝 과함 |
-| <a href="https://sire-korea.com/product/larry-carlton-l7/182/"><img class="model-thumb" src="https://sire-korea.com/web/product/big/202408/96fe79987f7cc8ebee0f4f132a213198.jpg" alt="Sire Larry Carlton L7 official product image"><span>Sire 공식</span></a> | 중급 세컨 | Sire L7/L7V | 81.9만 원 | 30~40만 원 | 30만 원대 초반 중고는 매우 좋은 편 |
-| <a href="https://www.gibson.com/collections/epiphone-les-paul-electric-guitars">Epiphone 공식 컬렉션</a> | 중급 세컨 | Epiphone Les Paul Standard | 90~110만 원 | 30~45만 원 | 재판매 유리. 50만 원 이상이면 목적 재검토 |
-| 공식 이미지 미확인 | 중급 세컨 | GrassRoots G-LP/G-LS | JPY 57,000~60,000+tax | 30~50만 원 | 매물 희소. ESP 계열 내수 브랜드 성격 |
-| <a href="https://www.espguitars.com/products/9572-ec-256-blk"><img class="model-thumb" src="https://cdn.connectsites.net/user_files/esp/product_images/000/027/048/original.png?1748385537&amp;height=1200&amp;width=1200" alt="LTD EC-256 official product image"><span>ESP/LTD 공식</span></a> | 중급 세컨 | LTD EC-256 | USD 499급 | 35~50만 원 | 모던 싱글컷. 전통 LP보다 메탈/락 쪽 |
-| 공식 이미지 미확인 | 중급 세컨 | Jackson JS Monarkh | 39~50만 원 | 18~28만 원 | Jackson식 싱글컷. LP 복각은 아님 |
-| <a href="https://sire-korea.com/product/sire-larry-carlton-l7-new-gen/281/"><img class="model-thumb" src="https://sire-korea.com/web/product/big/202603/acf8444d24ef9c206af0e5c2fc19747d.jpg" alt="Sire Larry Carlton L7 New Gen official product image"><span>Sire 공식</span></a> | 고가 후보 | Sire L7 New Gen | 89.5만 원 | 45만 원 이상 | 좋은 기타지만 연습용 목적에는 과할 수 있음 |
-| 공식 이미지 미확인 | 고가 후보 | Gopherwood LP Classic VII/IX | 79~110만 원 | 50만 원 이상 | 메인급에 가까움. 방치형 목적과는 거리 있음 |
-| 공식 이미지 미확인 | 모델별 판단 | Wildwood WLP Standard/FM/QM | 40~60만 원 | 20~35만 원 | 모델별 스펙 차이가 커서 개별 확인 필요 |
+| 이미지/출처 | 브랜드/모델 | 신품가 참고 | 목표 중고가 | 판단 |
+|---|---|---:|---:|---|
+| 공식 이미지 미확인 | <span class="price-band">최저가</span><br>Dame Mind 200 | 23.9만 원 | 10~16만 원 | 정말 막 쓰는 연습용. 모델/연식별 형태 확인 필요 |
+| 공식 이미지 미확인 | <span class="price-band">최저가</span><br>Corona CLP Standard | 34.8~42만 원 | 12~22만 원 | 전기계통 확인 필수. 가격이 낮으면 실사용 후보 |
+| <a href="https://www.espguitars.com/products/19094-ec-10"><img class="model-thumb" src="https://cdn.connectsites.net/user_files/esp/product_images/000/023/124/original.png?1484772987&amp;height=1200&amp;width=1200" alt="LTD EC-10 official product image"><span>ESP/LTD 공식</span></a> | <span class="price-band">최저가</span><br>LTD EC-10 | USD 199급 | 10~20만 원 | 메탈 싱글컷 입문형. LP 감성보다는 모던 성향 |
+| <a href="https://en.hexguitars.com/skin-skin26/product/h300-sghb/646/category/137/display/1/"><img class="model-thumb" src="https://en.hexguitars.com/web/product/big/202404/e9684ab31bf7a6262c08009607c09bc1.jpg" alt="HEX H300 official product image"><span>HEX 공식</span></a> | <span class="price-band">입문 핵심</span><br>HEX H300 | 42.5만 원 | 18~23만 원 | 20만 원대 초반이면 강한 후보 |
+| 공식 이미지 미확인 | <span class="price-band">입문 핵심</span><br>Spear RD-250/RD-250A | 43~48만 원 | 18~26만 원 | 방 연습용 핵심 후보. 넥/프렛 상태 우선 |
+| 공식 이미지 미확인 | <span class="price-band">입문 핵심</span><br>Swing MLP-100 | 42~46만 원 | 18~24만 원 | 슬림하고 가벼운 편. 전통 LP 질감은 덜할 수 있음 |
+| <a href="https://www.cortguitars.com/dp/cr250/"><img class="model-thumb" src="https://www.cortguitars.com/wp-content/uploads/2024/04/cort-cr-cr250-electric-guitar-share.jpg" alt="Cort CR250 official product image"><span>Cort 공식</span></a> | <span class="price-band">입문 핵심</span><br>Cort CR250 | 47.9만 원 | 20~27만 원 | 가장 무난한 국내 브랜드 후보 |
+| 공식 이미지 미확인 | <span class="price-band">입문 핵심</span><br>Beyond Modern LP Active-Lite | 25~32만 원 | 15~22만 원 | 액티브/메탈 성향. 역할 중복 주의 |
+| <a href="https://www.dame.co.kr/bbs/content.php?co_id=lp5">Dame 공식 상세</a> | <span class="price-band">30만 원 전후</span><br>Dame LP5 | 57.8만 원 | 25~32만 원 | 공식 이미지는 긴 상세페이지라 썸네일 미사용. 상태 좋은 30만 원 전후면 매력적 |
+| 공식 이미지 미확인 | <span class="price-band">30만 원 전후</span><br>Tokai China Love Rock | 확인 필요 | 25~30만 원 | 일본제 Tokai와 구분 필요. 케이스 없으면 감점 |
+| <a href="https://www.gibson.com/products/epiphone-les-paul-special-satin-e1-vintage-sunburst"><img class="model-thumb" src="https://www.gibson.com/cdn/shop/files/ENSVVSVCH1_1_Body.png?v=1746129754" alt="Epiphone Les Paul Special Satin E1 official product image"><span>Epiphone 공식</span></a> | <span class="price-band">30만 원 전후</span><br>Epiphone Les Paul Special/Studio LT 계열 | 30~50만 원 | 15~25만 원 | 저가 Epiphone 계열. 세부 모델명과 생산연도 확인 필요 |
+| <a href="https://www.cortguitars.com/dp/cr300/"><img class="model-thumb" src="https://www.cortguitars.com/wp-content/uploads/2024/04/cort-cr-cr300-electric-guitar-share.jpg" alt="Cort CR300 official product image"><span>Cort 공식</span></a> | <span class="price-band">중급 세컨</span><br>Cort CR300 | 69만 원 이상 | 30~40만 원 | 좋지만 방치형 목적에는 살짝 과함 |
+| <a href="https://sire-korea.com/product/larry-carlton-l7/182/"><img class="model-thumb" src="https://sire-korea.com/web/product/big/202408/96fe79987f7cc8ebee0f4f132a213198.jpg" alt="Sire Larry Carlton L7 official product image"><span>Sire 공식</span></a> | <span class="price-band">중급 세컨</span><br>Sire L7/L7V | 81.9만 원 | 30~40만 원 | 30만 원대 초반 중고는 매우 좋은 편 |
+| <a href="https://www.gibson.com/collections/epiphone-les-paul-electric-guitars">Epiphone 공식 컬렉션</a> | <span class="price-band">중급 세컨</span><br>Epiphone Les Paul Standard | 90~110만 원 | 30~45만 원 | 재판매 유리. 50만 원 이상이면 목적 재검토 |
+| 공식 이미지 미확인 | <span class="price-band">중급 세컨</span><br>GrassRoots G-LP/G-LS | JPY 57,000~60,000+tax | 30~50만 원 | 매물 희소. ESP 계열 내수 브랜드 성격 |
+| <a href="https://www.espguitars.com/products/9572-ec-256-blk"><img class="model-thumb" src="https://cdn.connectsites.net/user_files/esp/product_images/000/027/048/original.png?1748385537&amp;height=1200&amp;width=1200" alt="LTD EC-256 official product image"><span>ESP/LTD 공식</span></a> | <span class="price-band">중급 세컨</span><br>LTD EC-256 | USD 499급 | 35~50만 원 | 모던 싱글컷. 전통 LP보다 메탈/락 쪽 |
+| 공식 이미지 미확인 | <span class="price-band">중급 세컨</span><br>Jackson JS Monarkh | 39~50만 원 | 18~28만 원 | Jackson식 싱글컷. LP 복각은 아님 |
+| <a href="https://sire-korea.com/product/sire-larry-carlton-l7-new-gen/281/"><img class="model-thumb" src="https://sire-korea.com/web/product/big/202603/acf8444d24ef9c206af0e5c2fc19747d.jpg" alt="Sire Larry Carlton L7 New Gen official product image"><span>Sire 공식</span></a> | <span class="price-band">고가 후보</span><br>Sire L7 New Gen | 89.5만 원 | 45만 원 이상 | 좋은 기타지만 연습용 목적에는 과할 수 있음 |
+| 공식 이미지 미확인 | <span class="price-band">고가 후보</span><br>Gopherwood LP Classic VII/IX | 79~110만 원 | 50만 원 이상 | 메인급에 가까움. 방치형 목적과는 거리 있음 |
+| 공식 이미지 미확인 | <span class="price-band">모델별 판단</span><br>Wildwood WLP Standard/FM/QM | 40~60만 원 | 20~35만 원 | 모델별 스펙 차이가 커서 개별 확인 필요 |
 
 </div>
 

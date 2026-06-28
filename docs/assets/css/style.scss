@@ -56,23 +56,25 @@
 
 .table-scroll th:nth-child(2),
 .table-scroll td:nth-child(2) {
-  min-width: 82px !important;
-  overflow-wrap: normal !important;
-  white-space: nowrap !important;
-  width: 82px !important;
-  word-break: normal !important;
+  width: 210px;
 }
 
 .table-scroll th:nth-child(3),
 .table-scroll td:nth-child(3) {
-  width: 170px;
+  width: 96px;
 }
 
 .table-scroll th:nth-child(4),
-.table-scroll td:nth-child(4),
-.table-scroll th:nth-child(5),
-.table-scroll td:nth-child(5) {
+.table-scroll td:nth-child(4) {
   width: 96px;
+}
+
+.price-band {
+  color: #666;
+  display: inline-block;
+  font-size: 0.85em;
+  font-weight: 600;
+  margin-bottom: 2px;
 }
 
 @media screen and (max-width: 600px) {
@@ -134,22 +136,18 @@
   }
 
   .table-scroll td:nth-child(2)::before {
-    content: "구간";
-  }
-
-  .table-scroll td:nth-child(3)::before {
     content: "모델";
   }
 
-  .table-scroll td:nth-child(4)::before {
+  .table-scroll td:nth-child(3)::before {
     content: "신품가";
   }
 
-  .table-scroll td:nth-child(5)::before {
+  .table-scroll td:nth-child(4)::before {
     content: "중고가";
   }
 
-  .table-scroll td:nth-child(6)::before {
+  .table-scroll td:nth-child(5)::before {
     content: "판단";
   }
 }
