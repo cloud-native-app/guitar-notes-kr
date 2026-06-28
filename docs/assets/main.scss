@@ -190,12 +190,10 @@
 
   .table-scroll td {
     border: 0;
-    display: grid;
-    gap: 8px;
-    grid-template-columns: 80px minmax(0, 1fr);
     min-width: 0 !important;
     overflow-wrap: anywhere;
-    padding: 6px 0;
+    padding: 6px 0 6px 88px;
+    position: relative;
     text-align: left !important;
     word-break: normal;
   }
@@ -204,6 +202,10 @@
     color: #555;
     content: "";
     font-weight: 600;
+    left: 0;
+    position: absolute;
+    top: 6px;
+    width: 80px;
   }
 
   .table-scroll td:nth-child(1)::before {
