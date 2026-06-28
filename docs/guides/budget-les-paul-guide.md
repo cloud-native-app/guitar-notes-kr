@@ -1,16 +1,16 @@
 ---
 layout: page
-title: 저가 레스폴 타입 기타
+title: 레스폴 타입 일렉기타 중고 구매 가이드
 ---
 
-국내 중고 시장에서 **10만~50만 원대 레스폴 타입 일렉기타**를 고를 때 보는 요약표입니다.  
+국내 중고 시장에서 **10만~50만 원대 전후 레스폴 타입 일렉기타**를 고를 때 보는 요약표입니다.
 특정 매물 추천이 아니라, 방 연습용·세컨 기타·부담 없는 실사용 기타를 고를 때의 판단 기준입니다.
 
 ## 한 줄 결론
 
 **방 연습용이면 10만~30만 원대 정상 작동 기타가 가장 현실적입니다.** 신품가 40만~60만 원대 모델을 중고 20만~30만 원대에 사는 구간이 가장 좋습니다.
 
-## 비교표
+## 저가/입문용 후보
 
 이미지는 **해당 행의 모델과 공식 페이지가 맞는 경우에만** 넣었습니다. 공식 이미지 확인이 애매한 모델은 억지로 이미지를 붙이지 않았습니다.
 
@@ -30,6 +30,15 @@ title: 저가 레스폴 타입 기타
 | Dame | LP5 | Dame 상위 LP 타입 | 57.8만 원 | 25~32만 원 | 상태 좋은 30만 원 전후면 매력적 | <a href="https://www.dame.co.kr/bbs/content.php?co_id=lp5"><img class="model-thumb model-thumb-cover" src="https://dame.co.kr/data/editor/2405/35107bcb0c9e7623b969f4ec27623a57_1716972349_8211.jpg" alt="Dame LP5 official detail image"><span>Dame 공식</span></a> |
 | Tokai | China Love Rock | 중국 생산 Love Rock, 일본제와 구분 필요 | 확인 필요 | 25~30만 원 | 케이스 없으면 감점 | 공식 이미지 미확인 |
 | Epiphone | Les Paul Special / Studio LT 계열 | 저가 Epiphone LP 계열 | 30~50만 원 | 15~25만 원 | 세부 모델명과 생산연도 확인 필요 | <a href="https://www.gibson.com/products/epiphone-les-paul-special-satin-e1-vintage-sunburst"><img class="model-thumb" src="https://www.gibson.com/cdn/shop/files/ENSVVSVCH1_1_Body.png?v=1746129754" alt="Epiphone Les Paul Special Satin E1 official product image"><span>Epiphone 공식</span></a> |
+
+</div>
+
+## 중·고가/세컨 기타 후보
+
+<div class="table-scroll" markdown="1">
+
+| 브랜드 | 모델 | 제품 특징 | 신품가 참고 | 목표 중고가 | 판단 | 이미지 |
+|---|---|---|---:|---:|---|---|
 | Cort | CR300 | CR250보다 상위 성향 | 69만 원 이상 | 30~40만 원 | 좋지만 방치형 목적에는 살짝 과함 | <a href="https://www.cortguitars.com/dp/cr300/"><img class="model-thumb" src="https://www.cortguitars.com/wp-content/uploads/2024/04/cort-cr-cr300-electric-guitar-share.jpg" alt="Cort CR300 official product image"><span>Cort 공식</span></a> |
 | Sire | L7/L7V | Larry Carlton L7 계열 | 81.9만 원 | 30~40만 원 | 30만 원대 초반 중고는 매우 좋은 편 | <a href="https://sire-korea.com/product/larry-carlton-l7/182/"><img class="model-thumb" src="https://sire-korea.com/web/product/big/202408/96fe79987f7cc8ebee0f4f132a213198.jpg" alt="Sire Larry Carlton L7 official product image"><span>Sire 공식</span></a> |
 | Epiphone | Les Paul Standard | 브랜드 수요 넓고 재판매 유리 | 90~110만 원 | 30~45만 원 | 50만 원 이상이면 목적 재검토 | <a href="https://www.gibson.com/collections/epiphone-les-paul-electric-guitars">Epiphone 공식 컬렉션</a> |

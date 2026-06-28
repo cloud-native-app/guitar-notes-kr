@@ -7,8 +7,8 @@
 GitHub Pages를 사용한다면 `docs/` 폴더를 Pages 소스로 지정하세요.
 
 - [사이트 홈](docs/index.md)
-- [저가 레스폴 타입 기타 구매 가이드](docs/guides/budget-les-paul-guide.md)
-- [저가 레스폴 타입 모델 CSV](docs/data/budget-les-paul-models.csv)
+- [레스폴 타입 일렉기타 중고 구매 가이드](docs/guides/budget-les-paul-guide.md)
+- [레스폴 타입 모델 CSV](docs/data/budget-les-paul-models.csv)
 
 ## 문서 운영 원칙
 

@@ -9,11 +9,11 @@ title: Guitar Notes KR
 
 ## 최근 글
 
-- [저가 레스폴 타입 기타 구매 가이드](guides/budget-les-paul-guide.md)
+- [레스폴 타입 일렉기타 중고 구매 가이드](guides/budget-les-paul-guide.md)
 
 ## 데이터
 
-- [저가 레스폴 타입 모델 CSV](data/budget-les-paul-models.csv)
+- [레스폴 타입 모델 CSV](data/budget-les-paul-models.csv)
 
 ## 운영 기준
 
