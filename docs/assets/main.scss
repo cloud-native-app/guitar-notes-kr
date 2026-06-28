@@ -232,4 +232,46 @@
   .table-scroll td:nth-child(7)::before {
     content: "이미지";
   }
+
+  .table-scroll.plain-table {
+    overflow-x: auto;
+  }
+
+  .table-scroll.plain-table table {
+    border: 1px solid #e8e8e8;
+    display: table;
+    min-width: 760px;
+    table-layout: auto;
+    width: 100% !important;
+  }
+
+  .table-scroll.plain-table thead {
+    display: table-header-group;
+  }
+
+  .table-scroll.plain-table tbody {
+    display: table-row-group;
+  }
+
+  .table-scroll.plain-table tr {
+    border: 0;
+    display: table-row;
+    margin: 0;
+    padding: 0;
+  }
+
+  .table-scroll.plain-table th,
+  .table-scroll.plain-table td {
+    border: 1px solid #e8e8e8;
+    display: table-cell;
+    padding: 8px 10px;
+    vertical-align: top;
+    width: auto !important;
+    word-break: keep-all;
+  }
+
+  .table-scroll.plain-table td::before {
+    content: none !important;
+    display: none;
+  }
 }

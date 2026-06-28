@@ -7,6 +7,7 @@
 GitHub Pages를 사용한다면 `docs/` 폴더를 Pages 소스로 지정하세요.
 
 - [사이트 홈](docs/index.md)
+- [Gibson 기타 종류와 픽업 정리](docs/guides/gibson-guitars-pickups.md)
 - [레스폴 타입 일렉기타 중고 구매 가이드](docs/guides/budget-les-paul-guide.md)
 - [레스폴 타입 모델 CSV](docs/data/budget-les-paul-models.csv)
 
