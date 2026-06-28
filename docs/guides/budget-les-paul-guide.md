@@ -78,10 +78,3 @@ title: 레스폴 타입 일렉기타 중고 구매 가이드
 - [모델 데이터 CSV](../data/budget-les-paul-models.csv)
 
 가격은 2026-06-29 기준 공개 페이지와 중고 시장 감각을 섞은 참고값입니다. 실제 거래가는 색상, 연식, 구성품, 지역, 상태에 따라 달라집니다.
-
-<script>
-  document.querySelectorAll('a[href^="http"]').forEach((link) => {
-    link.target = "_blank";
-    link.rel = "noopener noreferrer";
-  });
-</script>
