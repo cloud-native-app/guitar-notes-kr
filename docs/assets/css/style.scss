@@ -3,6 +3,11 @@
 
 @import "minima";
 
+.wrapper {
+  box-sizing: border-box;
+  width: 100%;
+}
+
 .wrapper,
 .post-content {
   min-width: 0;
