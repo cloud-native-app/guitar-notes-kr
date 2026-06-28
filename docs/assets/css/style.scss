@@ -56,8 +56,11 @@
 
 .table-scroll th:nth-child(2),
 .table-scroll td:nth-child(2) {
-  width: 82px;
-  white-space: nowrap;
+  min-width: 82px !important;
+  overflow-wrap: normal !important;
+  white-space: nowrap !important;
+  width: 82px !important;
+  word-break: normal !important;
 }
 
 .table-scroll th:nth-child(3),
