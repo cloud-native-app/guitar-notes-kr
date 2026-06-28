@@ -5,6 +5,7 @@
 
 .wrapper {
   box-sizing: border-box;
+  max-width: 1320px;
   width: 100%;
 }
 
@@ -85,7 +86,7 @@
   max-width: 76px;
 }
 
-.thumb-grid .model-thumb {
+.table-scroll td .thumb-grid img.model-thumb {
   height: 76px !important;
   max-height: 76px !important;
   max-width: 76px !important;
