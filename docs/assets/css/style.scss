@@ -77,4 +77,76 @@
     font-size: 34px;
     line-height: 1.15;
   }
+
+  .table-scroll {
+    overflow-x: visible;
+  }
+
+  .table-scroll table,
+  .table-scroll thead,
+  .table-scroll tbody,
+  .table-scroll tr,
+  .table-scroll td {
+    display: block;
+    width: 100%;
+  }
+
+  .table-scroll table {
+    border: 0;
+    contain: none;
+  }
+
+  .table-scroll thead {
+    display: none;
+  }
+
+  .table-scroll tr {
+    background: #fff;
+    border: 1px solid #e8e8e8;
+    margin-bottom: 12px;
+    padding: 10px 12px;
+  }
+
+  .table-scroll tr:nth-child(even) {
+    background: #fff;
+  }
+
+  .table-scroll td {
+    border: 0;
+    display: grid;
+    gap: 8px;
+    grid-template-columns: 96px minmax(0, 1fr);
+    min-width: 0 !important;
+    padding: 6px 0;
+  }
+
+  .table-scroll td::before {
+    color: #555;
+    content: "";
+    font-weight: 600;
+  }
+
+  .table-scroll td:nth-child(1)::before {
+    content: "출처";
+  }
+
+  .table-scroll td:nth-child(2)::before {
+    content: "구간";
+  }
+
+  .table-scroll td:nth-child(3)::before {
+    content: "모델";
+  }
+
+  .table-scroll td:nth-child(4)::before {
+    content: "신품가";
+  }
+
+  .table-scroll td:nth-child(5)::before {
+    content: "중고가";
+  }
+
+  .table-scroll td:nth-child(6)::before {
+    content: "판단";
+  }
 }
