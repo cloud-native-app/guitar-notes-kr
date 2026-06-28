@@ -152,7 +152,7 @@
   .post-content,
   .post-content p {
     overflow-wrap: anywhere;
-    word-break: normal;
+    word-break: break-all;
   }
 
   .table-scroll {
@@ -195,7 +195,7 @@
     padding: 6px 0 6px 88px;
     position: relative;
     text-align: left !important;
-    word-break: normal;
+    word-break: break-all;
   }
 
   .table-scroll td::before {
