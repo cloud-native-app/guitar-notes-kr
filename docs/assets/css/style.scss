@@ -3,44 +3,27 @@
 
 @import "minima";
 
-.model-gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-  gap: 12px;
-  margin: 18px 0 12px;
-}
-
-.model-card {
-  border: 1px solid #e5e5e5;
-  border-radius: 8px;
-  color: inherit;
-  display: block;
-  overflow: hidden;
-  text-decoration: none;
-  background: #fff;
-}
-
-.model-card img {
-  display: block;
-  width: 100%;
-  aspect-ratio: 4 / 3;
-  object-fit: contain;
-  background: #f7f7f7;
-}
-
-.model-card span {
-  display: block;
-  font-weight: 600;
-  padding: 8px 10px;
-}
-
 .post-content table {
   display: block;
   overflow-x: auto;
-  white-space: nowrap;
 }
 
 .post-content th,
 .post-content td {
   vertical-align: top;
+}
+
+.model-thumb {
+  background: #f7f7f7;
+  border: 1px solid #e5e5e5;
+  border-radius: 6px;
+  display: block;
+  height: 86px;
+  margin-bottom: 4px;
+  object-fit: contain;
+  width: 116px;
+}
+
+.post-content td:first-child {
+  min-width: 130px;
 }
