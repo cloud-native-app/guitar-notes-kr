@@ -13,6 +13,7 @@ title: 레스폴 타입 일렉기타 중고 구매 가이드
 ## 저가/입문용 후보
 
 이미지는 **해당 행의 모델과 공식 페이지가 맞는 경우에만** 넣었습니다. 공식 이미지 확인이 애매한 모델은 억지로 이미지를 붙이지 않았습니다.
+신품가가 대략 60만 원 이하이거나, 중고가가 30만 원대 이하에서 주로 판단되는 모델을 이 표에 묶었습니다.
 
 <div class="table-scroll" markdown="1">
 
@@ -30,10 +31,13 @@ title: 레스폴 타입 일렉기타 중고 구매 가이드
 | Dame | LP5 | Dame 상위 LP 타입 | 57.8만 원 | 25~32만 원 | 상태 좋은 30만 원 전후면 매력적 | <a href="https://www.dame.co.kr/bbs/content.php?co_id=lp5"><img class="model-thumb model-thumb-cover" src="https://dame.co.kr/data/editor/2405/35107bcb0c9e7623b969f4ec27623a57_1716972349_8211.jpg" alt="Dame LP5 official detail image"><span>Dame 공식</span></a> |
 | Tokai | China Love Rock | 중국 생산 Love Rock, 일본제와 구분 필요 | 확인 필요 | 25~30만 원 | 케이스 없으면 감점 | 공식 이미지 미확인 |
 | Epiphone | Les Paul Special / Studio LT 계열 | 저가 Epiphone LP 계열 | 30~50만 원 | 15~25만 원 | 세부 모델명과 생산연도 확인 필요 | <a href="https://www.gibson.com/products/epiphone-les-paul-special-satin-e1-vintage-sunburst"><img class="model-thumb" src="https://www.gibson.com/cdn/shop/files/ENSVVSVCH1_1_Body.png?v=1746129754" alt="Epiphone Les Paul Special Satin E1 official product image"><span>Epiphone 공식</span></a> |
+| Wildwood | WLP Standard/FM/QM | 모델별 스펙과 색상 차이가 큰 LP 타입 | 40~60만 원 | 20~35만 원 | 신품가 기준 저가~입문/실사용 후보. 개별 매물 스펙 확인 필요 | <span class="thumb-grid"><a href="https://www.schoolmusic.co.kr/mobile/product_view.php?Good_no=33863"><img class="model-thumb" src="https://img.schoolmusic.co.kr/prod_picture/1/1305/650_178.jpg" alt="Wildwood WLP-FM HB product image"><span>WLP-FM</span></a><a href="https://www.schoolmusic.co.kr/mobile/product_view.php?Good_no=33867"><img class="model-thumb" src="https://img.schoolmusic.co.kr/prod_picture/1/1305/650_403.jpg" alt="Wildwood WLP-QM EV product image"><span>WLP-QM EV</span></a><a href="https://www.schoolmusic.co.kr/mobile/product_view.php?Good_no=33869"><img class="model-thumb" src="https://img.schoolmusic.co.kr/prod_picture/1/1305/650_461.jpg" alt="Wildwood WLP-QM VY product image"><span>WLP-QM VY</span></a></span> |
 
 </div>
 
 ## 중·고가/세컨 기타 후보
+
+신품가가 대략 60만 원 이상이거나, 중고에서도 30만 원대 후반 이상을 자주 보는 모델을 이 표에 묶었습니다.
 
 <div class="table-scroll" markdown="1">
 
@@ -47,7 +51,6 @@ title: 레스폴 타입 일렉기타 중고 구매 가이드
 | Jackson | JS Monarkh | Jackson식 메탈 싱글컷 | 39~50만 원 | 18~28만 원 | LP 복각은 아님 | 공식 이미지 미확인 |
 | Sire | L7 New Gen | L7 신형, 신품가 높은 중급 후보 | 89.5만 원 | 45만 원 이상 | 좋은 기타지만 연습용 목적에는 과할 수 있음 | <a href="https://sire-korea.com/product/sire-larry-carlton-l7-new-gen/281/"><img class="model-thumb" src="https://sire-korea.com/web/product/big/202603/acf8444d24ef9c206af0e5c2fc19747d.jpg" alt="Sire Larry Carlton L7 New Gen official product image"><span>Sire 공식</span></a> |
 | Gopherwood | LP Classic VII/IX | 메인급에 가까운 국산/국내 유통 LP 타입 | 79~110만 원 | 50만 원 이상 | 방치형 목적과는 거리 있음 | <span class="thumb-grid"><a href="https://m.gopherwoodguitar.com/product/gopherwood-lp-classic-vii-jet-black/517/category/150/display/1/"><img class="model-thumb" src="https://gopherwoodguitar.com/web/product/big/202512/4d6b0514fb7edf6f7b5f6a1f9e9fcacc.jpg" alt="Gopherwood LP Classic VII official product image"><span>LP VII</span></a><a href="https://m.gopherwood.co.kr/product/gopherwood-lp-classic-ix-2%EC%84%B8%EB%8C%80-lp%ED%81%B4%EB%9E%98%EC%8B%9D9/358/"><img class="model-thumb" src="https://gopherwood.co.kr/web/product/big/202308/51637bf55dda1f9abc812ba3a649ffbb.jpg" alt="Gopherwood LP Classic IX official product image"><span>LP IX</span></a></span> |
-| Wildwood | WLP Standard/FM/QM | 모델별 스펙과 색상 차이가 큰 LP 타입 | 40~60만 원 | 20~35만 원 | 개별 매물 스펙 확인 필요 | <span class="thumb-grid"><a href="https://www.schoolmusic.co.kr/mobile/product_view.php?Good_no=33863"><img class="model-thumb" src="https://img.schoolmusic.co.kr/prod_picture/1/1305/650_178.jpg" alt="Wildwood WLP-FM HB product image"><span>WLP-FM</span></a><a href="https://www.schoolmusic.co.kr/mobile/product_view.php?Good_no=33867"><img class="model-thumb" src="https://img.schoolmusic.co.kr/prod_picture/1/1305/650_403.jpg" alt="Wildwood WLP-QM EV product image"><span>WLP-QM EV</span></a><a href="https://www.schoolmusic.co.kr/mobile/product_view.php?Good_no=33869"><img class="model-thumb" src="https://img.schoolmusic.co.kr/prod_picture/1/1305/650_461.jpg" alt="Wildwood WLP-QM VY product image"><span>WLP-QM VY</span></a></span> |
 
 </div>
 
