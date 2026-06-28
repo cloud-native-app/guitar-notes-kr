@@ -192,8 +192,7 @@
     border: 0;
     min-width: 0 !important;
     overflow-wrap: anywhere;
-    padding: 6px 0 6px 88px;
-    position: relative;
+    padding: 7px 0;
     text-align: left !important;
     word-break: break-all;
   }
@@ -201,11 +200,9 @@
   .table-scroll td::before {
     color: #555;
     content: "";
+    display: block;
     font-weight: 600;
-    left: 0;
-    position: absolute;
-    top: 6px;
-    width: 80px;
+    margin-bottom: 3px;
   }
 
   .table-scroll td:nth-child(1)::before {
