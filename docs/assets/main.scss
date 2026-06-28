@@ -28,6 +28,7 @@
 }
 
 .table-scroll table {
+  box-sizing: border-box;
   display: table;
   max-width: none;
   table-layout: fixed;
@@ -36,6 +37,7 @@
 
 .post-content th,
 .post-content td {
+  box-sizing: border-box;
   overflow-wrap: break-word;
   vertical-align: top;
   white-space: normal;
