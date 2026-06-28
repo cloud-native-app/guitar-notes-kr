@@ -30,7 +30,7 @@
   display: table;
   max-width: none;
   table-layout: fixed;
-  width: 100%;
+  width: 1120px;
 }
 
 .post-content th,
@@ -74,17 +74,17 @@
 }
 
 .table-scroll td:first-child {
-  width: 150px;
+  width: 92px;
 }
 
 .table-scroll th:nth-child(2),
 .table-scroll td:nth-child(2) {
-  width: 210px;
+  width: 170px;
 }
 
 .table-scroll th:nth-child(3),
 .table-scroll td:nth-child(3) {
-  width: 96px;
+  width: 190px;
 }
 
 .table-scroll th:nth-child(4),
@@ -92,12 +92,14 @@
   width: 96px;
 }
 
-.price-band {
-  color: #666;
-  display: inline-block;
-  font-size: 0.85em;
-  font-weight: 600;
-  margin-bottom: 2px;
+.table-scroll th:nth-child(5),
+.table-scroll td:nth-child(5) {
+  width: 96px;
+}
+
+.table-scroll th:nth-child(7),
+.table-scroll td:nth-child(7) {
+  width: 156px;
 }
 
 @media screen and (max-width: 600px) {
@@ -155,7 +157,7 @@
   }
 
   .table-scroll td:nth-child(1)::before {
-    content: "출처";
+    content: "브랜드";
   }
 
   .table-scroll td:nth-child(2)::before {
@@ -163,14 +165,22 @@
   }
 
   .table-scroll td:nth-child(3)::before {
-    content: "신품가";
+    content: "특징";
   }
 
   .table-scroll td:nth-child(4)::before {
-    content: "중고가";
+    content: "신품가";
   }
 
   .table-scroll td:nth-child(5)::before {
+    content: "중고가";
+  }
+
+  .table-scroll td:nth-child(6)::before {
     content: "판단";
+  }
+
+  .table-scroll td:nth-child(7)::before {
+    content: "이미지";
   }
 }
