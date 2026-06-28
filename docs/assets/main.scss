@@ -146,10 +146,13 @@
     font-size: 28px;
     line-height: 1.2;
     overflow-wrap: break-word;
+    word-break: break-all;
   }
 
-  .post-content {
+  .post-content,
+  .post-content p {
     overflow-wrap: anywhere;
+    word-break: normal;
   }
 
   .table-scroll {
@@ -191,8 +194,10 @@
     gap: 8px;
     grid-template-columns: 96px minmax(0, 1fr);
     min-width: 0 !important;
+    overflow-wrap: anywhere;
     padding: 6px 0;
     text-align: left !important;
+    word-break: normal;
   }
 
   .table-scroll td::before {
