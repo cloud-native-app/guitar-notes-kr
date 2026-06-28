@@ -3,15 +3,29 @@
 
 @import "minima";
 
-.table-scroll {
+.wrapper,
+.post-content {
+  min-width: 0;
+}
+
+.post-content {
   max-width: 100%;
+  overflow-wrap: break-word;
+}
+
+.table-scroll {
+  display: block;
+  max-width: 100%;
+  min-width: 0;
   overflow-x: auto;
+  width: 100%;
 }
 
 .table-scroll table {
+  contain: inline-size;
   display: table;
   max-width: none;
-  width: max-content;
+  width: 980px;
 }
 
 .post-content th,
@@ -38,6 +52,7 @@
 .table-scroll th:nth-child(2),
 .table-scroll td:nth-child(2) {
   min-width: 82px;
+  white-space: nowrap;
 }
 
 .table-scroll th:nth-child(3),
@@ -50,4 +65,11 @@
 .table-scroll th:nth-child(5),
 .table-scroll td:nth-child(5) {
   min-width: 94px;
+}
+
+@media screen and (max-width: 600px) {
+  .post-title {
+    font-size: 34px;
+    line-height: 1.15;
+  }
 }
