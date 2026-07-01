@@ -1,0 +1,18 @@
+<figure class="content-figure">
+  {% if include.href %}
+    <a href="{{ include.href }}" target="_blank" rel="noopener noreferrer">
+  {% endif %}
+  <img
+    src="{{ include.src | relative_url }}"
+    alt="{{ include.alt | escape }}"
+    loading="lazy"
+    {% if include.width %}width="{{ include.width }}"{% endif %}
+    {% if include.height %}height="{{ include.height }}"{% endif %}
+  >
+  {% if include.href %}
+    </a>
+  {% endif %}
+  {% if include.caption %}
+    <figcaption>{{ include.caption }}</figcaption>
+  {% endif %}
+</figure>

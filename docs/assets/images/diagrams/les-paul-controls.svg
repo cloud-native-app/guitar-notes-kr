@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Les Paul control layout diagram</title>
+  <desc id="desc">A simple diagram showing two humbuckers, four knobs, a bridge, and a toggle switch on a single-cut guitar body.</desc>
+  <rect width="1200" height="630" fill="#f6f3ec"/>
+  <path d="M438 132c86-42 207-34 286 30 54 44 79 108 69 176 77 20 128 71 128 134 0 91-104 146-232 125-45-7-88-23-126-46-45 23-94 37-143 39-121 5-211-57-202-146 5-50 40-91 92-116-20-77 25-158 128-196z" fill="#8a3b2d"/>
+  <path d="M449 152c75-33 179-24 246 31 48 39 69 95 59 155l-4 23 23 5c64 14 105 54 105 105 0 70-84 111-185 94-45-8-85-24-119-48l-13-9-14 8c-41 24-85 38-129 40-96 4-167-43-160-108 4-40 36-73 85-91l20-8-7-21c-21-65 14-139 93-176z" fill="#b46a3c" opacity=".7"/>
+  <rect x="481" y="258" width="202" height="44" rx="8" fill="#f9f5ee" stroke="#2a2927" stroke-width="8"/>
+  <rect x="481" y="342" width="202" height="44" rx="8" fill="#f9f5ee" stroke="#2a2927" stroke-width="8"/>
+  <rect x="718" y="294" width="128" height="30" rx="7" fill="#d2c1a7" stroke="#2a2927" stroke-width="6"/>
+  <rect x="726" y="338" width="112" height="24" rx="6" fill="#2a2927"/>
+  <g fill="#2a2927">
+    <circle cx="706" cy="433" r="31"/>
+    <circle cx="773" cy="439" r="31"/>
+    <circle cx="690" cy="506" r="31"/>
+    <circle cx="759" cy="511" r="31"/>
+  </g>
+  <g fill="#f7e6c4">
+    <circle cx="706" cy="433" r="15"/>
+    <circle cx="773" cy="439" r="15"/>
+    <circle cx="690" cy="506" r="15"/>
+    <circle cx="759" cy="511" r="15"/>
+  </g>
+  <line x1="410" y1="206" x2="846" y2="398" stroke="#2a2927" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="412" cy="205" r="18" fill="#f7e6c4" stroke="#2a2927" stroke-width="7"/>
+  <text x="78" y="92" font-family="Arial, sans-serif" font-size="44" font-weight="700" fill="#202124">Guitar Notes KR</text>
+  <text x="80" y="143" font-family="Arial, sans-serif" font-size="24" fill="#5e584f">Les Paul controls, pickups, bridge, and buying notes</text>
+  <g font-family="Arial, sans-serif" font-size="24" fill="#202124">
+    <text x="870" y="306">Bridge</text>
+    <text x="832" y="442">Volume / Tone</text>
+    <text x="438" y="244">Humbuckers</text>
+    <text x="300" y="198">Toggle</text>
+  </g>
+</svg>
