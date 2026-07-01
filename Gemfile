@@ -1,0 +1,10 @@
+source "https://rubygems.org"
+
+gem "jekyll", "~> 3.10"
+gem "minima", "~> 2.5"
+gem "jekyll-feed", "~> 0.17"
+gem "jekyll-seo-tag", "~> 2.8"
+gem "kramdown-parser-gfm", "~> 1.1"
+gem "tzinfo", "~> 1.2"
+gem "tzinfo-data", "~> 1.2024"
+gem "webrick", "~> 1.9"
