@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<article class="guide-page h-entry" itemscope itemtype="https://schema.org/Article">
+  <header class="guide-header">
+    {% if page.category %}
+      <p class="eyebrow">{{ page.category }}</p>
+    {% endif %}
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    {% if page.description %}
+      <p class="lead">{{ page.description }}</p>
+    {% endif %}
+    {% if page.updated or page.tags %}
+      <div class="guide-meta">
+        {% if page.updated %}<span>업데이트: {{ page.updated }}</span>{% endif %}
+        {% if page.tags %}<span>{{ page.tags | join: " · " }}</span>{% endif %}
+      </div>
+    {% endif %}
+    {% if page.hero_image %}
+      {% include figure.html
+        src=page.hero_image
+        alt=page.hero_alt
+        caption=page.hero_caption
+      %}
+    {% endif %}
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+</article>
