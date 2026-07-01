@@ -1,0 +1,11 @@
+<a class="article-card" href="{{ include.url | relative_url }}">
+  {% if include.image %}
+    <img src="{{ include.image | relative_url }}" alt="{{ include.alt | default: include.title | escape }}" loading="lazy">
+  {% endif %}
+  <span class="article-card__category">{{ include.category }}</span>
+  <h3>{{ include.title }}</h3>
+  <p>{{ include.summary }}</p>
+  {% if include.updated %}
+    <small>업데이트: {{ include.updated }}</small>
+  {% endif %}
+</a>
