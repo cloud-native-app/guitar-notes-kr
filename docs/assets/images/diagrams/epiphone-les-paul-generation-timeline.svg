@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">Epiphone Les Paul generation timeline</title>
+  <desc id="desc">Timeline comparing pre Inspired by Gibson models, early Inspired by Gibson models, 2026 refresh models, and Inspired by Gibson Custom models.</desc>
+  <defs>
+    <style>
+      .bg { fill: #fffaf2; }
+      .line { stroke: #8a3b2d; stroke-width: 6; stroke-linecap: round; }
+      .node { fill: #8a3b2d; }
+      .card { fill: #ffffff; stroke: #dbcdb8; stroke-width: 2; }
+      .card-strong { fill: #edf6f2; stroke: #246a5a; stroke-width: 3; }
+      .title { fill: #202124; font: 800 36px Arial, sans-serif; }
+      .subtitle { fill: #665f56; font: 500 20px Arial, sans-serif; }
+      .year { fill: #8a3b2d; font: 800 22px Arial, sans-serif; }
+      .head { fill: #202124; font: 800 22px Arial, sans-serif; }
+      .body { fill: #665f56; font: 500 17px Arial, sans-serif; }
+      .note { fill: #246a5a; font: 800 17px Arial, sans-serif; }
+    </style>
+  </defs>
+  <rect class="bg" width="1200" height="560" rx="28"/>
+  <text class="title" x="64" y="68">세대별로 달라지는 확인 포인트</text>
+  <text class="subtitle" x="64" y="104">같은 Les Paul 이름이어도 연식에 따라 헤드스톡, 지판재, 픽업, 케이스 구성이 달라집니다.</text>
+
+  <line class="line" x1="132" y1="266" x2="1068" y2="266"/>
+  <path d="M1068 266 L1042 251 L1042 281 Z" fill="#8a3b2d"/>
+
+  <g transform="translate(66 150)">
+    <rect class="card" width="245" height="250" rx="16"/>
+    <circle class="node" cx="122" cy="116" r="14"/>
+    <text class="year" x="26" y="46">2010년대 후반까지</text>
+    <text class="head" x="26" y="82">IBG 이전</text>
+    <text class="body" x="26" y="150">PlusTop Pro, Custom PRO,</text>
+    <text class="body" x="26" y="178">Traditional PRO처럼</text>
+    <text class="body" x="26" y="206">버전별 사양 편차가 큼</text>
+  </g>
+
+  <g transform="translate(342 150)">
+    <rect class="card" width="245" height="250" rx="16"/>
+    <circle class="node" cx="122" cy="116" r="14"/>
+    <text class="year" x="26" y="46">2020년 전후</text>
+    <text class="head" x="26" y="82">초기 IBG</text>
+    <text class="body" x="26" y="150">50s / 60s 구분,</text>
+    <text class="body" x="26" y="178">Kalamazoo 헤드스톡,</text>
+    <text class="body" x="26" y="206">ProBucker와 CTS 확대</text>
+  </g>
+
+  <g transform="translate(618 150)">
+    <rect class="card-strong" width="245" height="250" rx="16"/>
+    <circle class="node" cx="122" cy="116" r="14"/>
+    <text class="year" x="26" y="46">2026 리프레시</text>
+    <text class="head" x="26" y="82">현행 Standard</text>
+    <text class="body" x="26" y="150">로즈우드 지판,</text>
+    <text class="body" x="26" y="178">롱 넥 테논,</text>
+    <text class="body" x="26" y="206">프리미엄 긱백 기준</text>
+  </g>
+
+  <g transform="translate(894 150)">
+    <rect class="card" width="245" height="250" rx="16"/>
+    <circle class="node" cx="122" cy="116" r="14"/>
+    <text class="year" x="26" y="46">상위 라인</text>
+    <text class="head" x="26" y="82">IGC</text>
+    <text class="body" x="26" y="150">open-book 헤드스톡,</text>
+    <text class="body" x="26" y="178">Gibson USA 픽업,</text>
+    <text class="body" x="26" y="206">하드케이스 포함</text>
+  </g>
+
+  <text class="note" x="80" y="474">중고 매물은 “모델명 + 연식 + 실제 사진 + 구성품”을 함께 확인해야 합니다.</text>
+</svg>

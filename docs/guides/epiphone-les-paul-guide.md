@@ -7,6 +7,12 @@ title: 에피폰 레스폴 모델 가이드
 
 가격과 스펙은 **2026년 7월 1일 기준 참고값**입니다. 실제 신품가와 중고가는 환율, 국내 수입 시기, 색상, 한정판 여부, 재고, 할인, 구성품, 상태에 따라 달라집니다. 특히 단종 모델은 공식 신품가보다 **현재 재고가·중고가·상태**가 더 중요합니다.
 
+{% include figure.html
+  src="/assets/images/diagrams/epiphone-les-paul-lineup-map.svg"
+  alt="입문형, Standard, Inspired by Gibson Custom, Outfit을 구분한 에피폰 레스폴 라인업 지도"
+  caption="에피폰 레스폴은 모델 등급과 패키지명이 섞여 보이기 쉽습니다. 먼저 입문형, Standard 기준점, IGC 상위형, Outfit 패키지명을 분리해 읽으면 판단이 쉬워집니다."
+%}
+
 ## 한 줄 결론
 
 가장 무난한 신품 에피폰 레스폴은 **Les Paul Standard 50s 또는 Standard 60s**입니다. 50s는 두꺼운 빈티지 넥과 클래식한 반응, 60s는 더 얇고 빠른 넥감이 장점입니다.
@@ -30,11 +36,23 @@ title: 에피폰 레스폴 모델 가이드
 - 2볼륨, 2톤, 3웨이 토글 스위치
 - 험버커 2개 또는 P-90 픽업 구성
 
+{% include figure.html
+  src="/assets/images/diagrams/les-paul-controls.svg"
+  alt="레스폴 기타의 픽업, 브릿지, 토글 스위치, 볼륨과 톤 노브 위치를 설명한 다이어그램"
+  caption="레스폴 계열은 2픽업, 2볼륨, 2톤, 3웨이 토글 구조가 기본입니다. 모델별 픽업과 배선 옵션을 비교할 때 이 배치를 기준으로 보면 이해가 빠릅니다."
+%}
+
 일반적인 톤 성향은 **두꺼운 중저역, 긴 서스테인, 험버커 특유의 압축감, 드라이브 친화성**입니다. 스트랫/텔레 계열보다 노이즈가 적고 게인에 강한 편이지만, 무게가 더 나가고 고음의 개방감은 상대적으로 덜할 수 있습니다.
 
 다만 모든 에피폰 레스폴이 같은 성격은 아닙니다. Junior와 Special 계열은 P-90 픽업을 사용해 더 거칠고 직접적인 반응을 내며, Prophecy·Futura·Modern 계열은 웨이트 릴리프, 코일 스플릿, 다중 보이싱 픽업, 락킹 튜너 등을 사용해 현대적인 연주 편의성을 강조합니다.
 
 ## 세대 구분
+
+{% include figure.html
+  src="/assets/images/diagrams/epiphone-les-paul-generation-timeline.svg"
+  alt="Inspired by Gibson 이전, 초기 Inspired by Gibson, 2026 리프레시, Inspired by Gibson Custom 세대를 나눈 타임라인"
+  caption="중고 매물은 이름이 같아도 연식별 사양이 달라질 수 있습니다. 세대 흐름을 먼저 잡고 지판재, 픽업, 헤드스톡, 케이스 구성을 확인하는 편이 안전합니다."
+%}
 
 ### Inspired by Gibson 이전 세대
 
@@ -726,6 +744,12 @@ Special-II는 레스폴 외형의 입문형 모델입니다. 대개 bolt-on 넥,
 | Special-II | 입문형 | bolt-on 넥, 단순 회로, 저가 하드웨어 | 세라믹 험버커 계열 | 패키지 또는 별도 | 저가 | 레스폴 외형 입문용. 정통 Standard 구조와 별도 카테고리 |
 
 ## 구매 시 선택 기준
+
+{% include figure.html
+  src="/assets/images/diagrams/epiphone-les-paul-buying-map.svg"
+  alt="신품 기본기, 중고 가성비, 최상급 에피폰, 입문과 모던 계열로 나눈 에피폰 레스폴 구매 선택 지도"
+  caption="구매 기준은 신품 기본기, 중고 가성비, 최상급 사양, 입문·모던 용도로 나누면 단순해집니다. 이후 50s/60s 넥감, Gibson USA 픽업 여부, set-neck과 bolt-on 차이를 좁혀 가면 됩니다."
+%}
 
 ### 신품으로 가장 무난한 선택
 
