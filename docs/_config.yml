@@ -1,5 +1,36 @@
 title: Guitar Notes KR
-description: 일렉기타, 장비, 중고 거래, 세팅에 관한 한국어 노트와 가이드
-theme: minima
+description: 일렉기타, 레스폴 타입, 픽업, 중고 구매 기준을 사진과 표로 정리한 한국어 기타 노트
 lang: ko-KR
+timezone: Asia/Seoul
+url: "https://cloud-native-app.github.io"
+baseurl: "/guitar-notes-kr"
+theme: minima
 markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+navigation:
+  - title: 가이드
+    url: /guides/
+  - title: 모델 비교
+    url: /guides/epiphone-les-paul-guide.html
+  - title: 중고 구매
+    url: /guides/budget-les-paul-guide.html
+  - title: 자료실
+    url: /data/
+  - title: 소개
+    url: /about.html
+
+defaults:
+  - scope:
+      path: "guides"
+      type: "pages"
+    values:
+      layout: guide
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      image: /assets/images/diagrams/les-paul-controls.svg
