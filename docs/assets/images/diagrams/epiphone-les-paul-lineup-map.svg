@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">Epiphone Les Paul lineup map</title>
+  <desc id="desc">A visual guide that separates entry models, Standard models, Inspired by Gibson Custom models, and Outfit package names.</desc>
+  <defs>
+    <style>
+      .bg { fill: #fffaf2; }
+      .panel { fill: #ffffff; stroke: #dbcdb8; stroke-width: 2; }
+      .panel-strong { fill: #f7efe2; stroke: #8a3b2d; stroke-width: 3; }
+      .package { fill: #edf6f2; stroke: #246a5a; stroke-width: 2; stroke-dasharray: 10 8; }
+      .title { fill: #202124; font: 800 38px Arial, sans-serif; }
+      .subtitle { fill: #665f56; font: 500 20px Arial, sans-serif; }
+      .label { fill: #202124; font: 800 25px Arial, sans-serif; }
+      .small { fill: #665f56; font: 500 18px Arial, sans-serif; }
+      .tag { fill: #ffffff; font: 800 15px Arial, sans-serif; }
+      .axis { stroke: #8a3b2d; stroke-width: 5; stroke-linecap: round; }
+      .axis-text { fill: #8a3b2d; font: 800 18px Arial, sans-serif; }
+      .guitar { fill: #8a3b2d; opacity: .16; }
+      .dot { fill: #246a5a; }
+    </style>
+  </defs>
+  <rect class="bg" width="1200" height="620" rx="28"/>
+  <text class="title" x="64" y="72">Epiphone Les Paul 모델명 읽는 법</text>
+  <text class="subtitle" x="64" y="108">이름만 보지 말고 구조, 픽업, 케이스 포함 여부를 나눠서 봅니다.</text>
+
+  <line class="axis" x1="112" y1="540" x2="1088" y2="540"/>
+  <path d="M1088 540 L1062 525 L1062 555 Z" fill="#8a3b2d"/>
+  <text class="axis-text" x="104" y="576">입문 예산</text>
+  <text class="axis-text" x="460" y="576">기준점</text>
+  <text class="axis-text" x="910" y="576">상위 사양</text>
+
+  <g transform="translate(70 160)">
+    <rect class="panel" width="245" height="300" rx="16"/>
+    <path class="guitar" d="M52 214c-28-38 5-84 48-66 18-26 60-26 78 0 41-17 75 28 49 66-17 25-57 22-75 2-16 12-38 12-54 0-18 20-58 23-76-2z"/>
+    <rect x="25" y="24" width="90" height="28" rx="14" fill="#8a3b2d"/>
+    <text class="tag" x="45" y="44">ENTRY</text>
+    <text class="label" x="25" y="88">입문형</text>
+    <text class="small" x="25" y="127">Tribute / Studio E1</text>
+    <text class="small" x="25" y="157">Special-II 계열</text>
+    <circle class="dot" cx="32" cy="204" r="5"/>
+    <text class="small" x="48" y="210">bolt-on 여부 확인</text>
+    <circle class="dot" cx="32" cy="236" r="5"/>
+    <text class="small" x="48" y="242">정통 Standard와 별도</text>
+  </g>
+
+  <g transform="translate(355 160)">
+    <rect class="panel-strong" width="245" height="300" rx="16"/>
+    <path class="guitar" d="M52 214c-28-38 5-84 48-66 18-26 60-26 78 0 41-17 75 28 49 66-17 25-57 22-75 2-16 12-38 12-54 0-18 20-58 23-76-2z"/>
+    <rect x="25" y="24" width="108" height="28" rx="14" fill="#8a3b2d"/>
+    <text class="tag" x="45" y="44">STANDARD</text>
+    <text class="label" x="25" y="88">기준 모델</text>
+    <text class="small" x="25" y="127">Standard 50s / 60s</text>
+    <text class="small" x="25" y="157">현행 IBG 리프레시</text>
+    <circle class="dot" cx="32" cy="204" r="5"/>
+    <text class="small" x="48" y="210">set-neck, ProBucker</text>
+    <circle class="dot" cx="32" cy="236" r="5"/>
+    <text class="small" x="48" y="242">넥감 50s / 60s 선택</text>
+  </g>
+
+  <g transform="translate(640 160)">
+    <rect class="panel" width="245" height="300" rx="16"/>
+    <path class="guitar" d="M52 214c-28-38 5-84 48-66 18-26 60-26 78 0 41-17 75 28 49 66-17 25-57 22-75 2-16 12-38 12-54 0-18 20-58 23-76-2z"/>
+    <rect x="25" y="24" width="72" height="28" rx="14" fill="#8a3b2d"/>
+    <text class="tag" x="49" y="44">IGC</text>
+    <text class="label" x="25" y="88">상위형</text>
+    <text class="small" x="25" y="127">1959 / 1960 Reissue</text>
+    <text class="small" x="25" y="157">Les Paul Custom</text>
+    <circle class="dot" cx="32" cy="204" r="5"/>
+    <text class="small" x="48" y="210">Gibson USA 픽업</text>
+    <circle class="dot" cx="32" cy="236" r="5"/>
+    <text class="small" x="48" y="242">하드케이스 포함</text>
+  </g>
+
+  <g transform="translate(925 160)">
+    <rect class="package" width="205" height="300" rx="16"/>
+    <text class="label" x="24" y="88">Outfit</text>
+    <text class="small" x="24" y="127">등급명이 아니라</text>
+    <text class="small" x="24" y="157">패키지명입니다</text>
+    <circle class="dot" cx="31" cy="204" r="5"/>
+    <text class="small" x="47" y="210">본체 체급 확인</text>
+    <circle class="dot" cx="31" cy="236" r="5"/>
+    <text class="small" x="47" y="242">케이스와 부속품 확인</text>
+  </g>
+</svg>
