@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Gibson body types guide</title>
+  <desc id="desc">A summary diagram for Gibson electric guitar body families: Les Paul, SG, ES, Explorer, Flying V, and Firebird.</desc>
+  <defs>
+    <style>
+      .bg { fill: #fffaf2; }
+      .card { fill: #ffffff; stroke: #dbcdb8; stroke-width: 2; }
+      .accent { fill: #8a3b2d; }
+      .green { fill: #246a5a; }
+      .title { fill: #202124; font: 800 38px Arial, sans-serif; }
+      .subtitle { fill: #665f56; font: 500 20px Arial, sans-serif; }
+      .label { fill: #202124; font: 800 24px Arial, sans-serif; }
+      .body { fill: #665f56; font: 500 17px Arial, sans-serif; }
+      .shape { fill: #8a3b2d; opacity: .18; stroke: #8a3b2d; stroke-width: 3; }
+    </style>
+  </defs>
+  <rect class="bg" width="1200" height="675" rx="28"/>
+  <text class="title" x="64" y="70">Gibson 바디와 픽업을 볼 때</text>
+  <text class="subtitle" x="64" y="108">바디 종류가 먼저 성향을 나누고, 픽업이 세부 톤을 결정합니다.</text>
+
+  <g transform="translate(70 160)">
+    <rect class="card" width="320" height="185" rx="16"/>
+    <path class="shape" d="M54 116c-16-32 12-66 46-50 15-22 50-22 66 0 35-16 62 18 46 50-13 25-47 25-65 7-14 10-33 10-47 0-18 18-52 18-66-7z"/>
+    <text class="label" x="32" y="52">Les Paul</text>
+    <text class="body" x="32" y="148">두꺼운 중저역과 긴 서스테인</text>
+  </g>
+
+  <g transform="translate(440 160)">
+    <rect class="card" width="320" height="185" rx="16"/>
+    <path class="shape" d="M72 70c30 16 42 6 57-18 14 24 26 34 58 18 2 36 18 52 48 60-37 18-58 12-77-8-18 18-42 25-78 8 30-9 44-24 52-52z"/>
+    <text class="label" x="32" y="52">SG</text>
+    <text class="body" x="32" y="148">가볍고 빠른 더블컷 록 사운드</text>
+  </g>
+
+  <g transform="translate(810 160)">
+    <rect class="card" width="320" height="185" rx="16"/>
+    <path class="shape" d="M72 110c0-46 38-72 88-72s88 26 88 72-38 72-88 72-88-26-88-72zM112 110c0 24 20 38 48 38s48-14 48-38-20-38-48-38-48 14-48 38z"/>
+    <text class="label" x="32" y="52">ES / Semi-hollow</text>
+    <text class="body" x="32" y="148">공명감과 따뜻한 클린·크런치</text>
+  </g>
+
+  <g transform="translate(70 395)">
+    <rect class="card" width="320" height="185" rx="16"/>
+    <path class="shape" d="M68 142l54-94 52 48 78-46-42 118-58-42-55 54z"/>
+    <text class="label" x="32" y="52">Explorer</text>
+    <text class="body" x="32" y="148">각진 외형과 강한 무대 존재감</text>
+  </g>
+
+  <g transform="translate(440 395)">
+    <rect class="card" width="320" height="185" rx="16"/>
+    <path class="shape" d="M80 54l78 126 78-126-74 44z"/>
+    <text class="label" x="32" y="52">Flying V</text>
+    <text class="body" x="32" y="148">선명하고 공격적인 디자이너 계열</text>
+  </g>
+
+  <g transform="translate(810 395)">
+    <rect class="card" width="320" height="185" rx="16"/>
+    <path class="shape" d="M76 128c52-66 108-88 172-74-45 29-70 73-78 126-28-25-58-39-94-52z"/>
+    <text class="label" x="32" y="52">Firebird</text>
+    <text class="body" x="32" y="148">밝고 타이트한 독특한 픽업 성향</text>
+  </g>
+</svg>

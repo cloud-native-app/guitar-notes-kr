@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Used guitar checklist</title>
+  <desc id="desc">A checklist diagram for used electric guitar buying: neck, frets, electronics, cracks, hardware, and price.</desc>
+  <defs>
+    <style>
+      .bg { fill: #fffaf2; }
+      .panel { fill: #ffffff; stroke: #dbcdb8; stroke-width: 2; }
+      .title { fill: #202124; font: 800 38px Arial, sans-serif; }
+      .subtitle { fill: #665f56; font: 500 20px Arial, sans-serif; }
+      .label { fill: #202124; font: 800 24px Arial, sans-serif; }
+      .body { fill: #665f56; font: 500 18px Arial, sans-serif; }
+      .check { fill: none; stroke: #246a5a; stroke-width: 8; stroke-linecap: round; stroke-linejoin: round; }
+      .circle { fill: #edf6f2; stroke: #246a5a; stroke-width: 3; }
+      .guitar { fill: #8a3b2d; opacity: .15; stroke: #8a3b2d; stroke-width: 3; }
+    </style>
+  </defs>
+  <rect class="bg" width="1200" height="675" rx="28"/>
+  <text class="title" x="64" y="70">중고 기타는 상태 확인이 가격입니다</text>
+  <text class="subtitle" x="64" y="108">모델명보다 넥, 프렛, 전기계통, 수리 이력을 먼저 봅니다.</text>
+
+  <path class="guitar" d="M740 378c-52-68 12-150 90-110 36-54 118-54 154 0 78-40 142 42 90 110-34 44-100 40-133 6-30 20-70 20-100 0-33 34-100 38-101-6z"/>
+  <rect class="guitar" x="452" y="310" width="330" height="38" rx="19"/>
+  <rect class="guitar" x="390" y="295" width="74" height="68" rx="12"/>
+
+  <g transform="translate(70 165)">
+    <rect class="panel" width="320" height="126" rx="16"/>
+    <circle class="circle" cx="52" cy="62" r="24"/>
+    <path class="check" d="M41 62l9 10 17-22"/>
+    <text class="label" x="92" y="54">넥 상태</text>
+    <text class="body" x="92" y="86">휨, 트러스로드 여유</text>
+  </g>
+
+  <g transform="translate(70 315)">
+    <rect class="panel" width="320" height="126" rx="16"/>
+    <circle class="circle" cx="52" cy="62" r="24"/>
+    <path class="check" d="M41 62l9 10 17-22"/>
+    <text class="label" x="92" y="54">프렛과 버징</text>
+    <text class="body" x="92" y="86">마모, 뜬 프렛, 잡음</text>
+  </g>
+
+  <g transform="translate(70 465)">
+    <rect class="panel" width="320" height="126" rx="16"/>
+    <circle class="circle" cx="52" cy="62" r="24"/>
+    <path class="check" d="M41 62l9 10 17-22"/>
+    <text class="label" x="92" y="54">전자부</text>
+    <text class="body" x="92" y="86">셀렉터, 볼륨, 톤, 잭</text>
+  </g>
+
+  <g transform="translate(810 165)">
+    <rect class="panel" width="320" height="126" rx="16"/>
+    <circle class="circle" cx="52" cy="62" r="24"/>
+    <path class="check" d="M41 62l9 10 17-22"/>
+    <text class="label" x="92" y="54">수리 이력</text>
+    <text class="body" x="92" y="86">헤드, 넥, 바디 크랙</text>
+  </g>
+
+  <g transform="translate(810 315)">
+    <rect class="panel" width="320" height="126" rx="16"/>
+    <circle class="circle" cx="52" cy="62" r="24"/>
+    <path class="check" d="M41 62l9 10 17-22"/>
+    <text class="label" x="92" y="54">하드웨어</text>
+    <text class="body" x="92" y="86">브릿지, 튜너, 부식</text>
+  </g>
+
+  <g transform="translate(810 465)">
+    <rect class="panel" width="320" height="126" rx="16"/>
+    <circle class="circle" cx="52" cy="62" r="24"/>
+    <path class="check" d="M41 62l9 10 17-22"/>
+    <text class="label" x="92" y="54">가격 판단</text>
+    <text class="body" x="92" y="86">상태와 구성품 반영</text>
+  </g>
+</svg>
