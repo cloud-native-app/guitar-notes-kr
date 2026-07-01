@@ -4,7 +4,7 @@ title: 가이드
 description: Guitar Notes KR의 기타 구매, 모델, 픽업 가이드 모음
 ---
 
-처음 온 분은 중고 구매 기준, Gibson 바디와 픽업 정리, Epiphone Les Paul 모델 비교 순서로 읽으면 흐름이 좋습니다.
+처음 온 분은 중고 구매 기준, Gibson 바디·넥·픽업 정리, Epiphone Les Paul 모델 비교 순서로 읽으면 흐름이 좋습니다.
 
 <div class="article-grid">
   {% include article-card.html
@@ -20,10 +20,10 @@ description: Guitar Notes KR의 기타 구매, 모델, 픽업 가이드 모음
     title="Gibson 기타 종류와 픽업 정리"
     url="/guides/gibson-guitars-pickups.html"
     category="브랜드/픽업"
-    updated="2026-07-01"
+    updated="2026-07-02"
     image="/assets/images/diagrams/gibson-body-types.svg"
     alt="Gibson Les Paul, SG, ES, Explorer, Flying V, Firebird 바디 타입을 비교한 다이어그램"
-    summary="Les Paul, SG, ES, Explorer, Firebird와 대표 Gibson 픽업 성향을 정리합니다."
+    summary="Les Paul, SG, ES, Explorer, Firebird와 Gibson 넥감, 대표 픽업 성향을 정리합니다."
   %}
   {% include article-card.html
     title="에피폰 레스폴 모델 가이드"

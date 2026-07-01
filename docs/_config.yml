@@ -43,12 +43,12 @@ defaults:
       path: "guides/gibson-guitars-pickups.md"
       type: "pages"
     values:
-      description: Gibson 계열 기타의 바디 종류, 대표 라인, P-90과 PAF 계열 픽업 성향을 빠르게 비교합니다.
+      description: Gibson 계열 기타의 바디 종류, 대표 라인, 넥 프로파일, P-90과 PAF 계열 픽업 성향을 빠르게 비교합니다.
       category: 브랜드/픽업
       image: /assets/images/diagrams/gibson-body-types.svg
-      tags: [Gibson, Les Paul, SG, ES, 픽업]
-      updated: 2026-07-01
-      summary: Les Paul, SG, ES, Explorer, Firebird와 대표 Gibson 픽업 성향을 정리합니다.
+      tags: [Gibson, Les Paul, SG, ES, 픽업, 넥프로파일]
+      updated: 2026-07-02
+      summary: Les Paul, SG, ES, Explorer, Firebird와 Gibson 넥감, 대표 픽업 성향을 정리합니다.
   - scope:
       path: "guides/epiphone-les-paul-guide.md"
       type: "pages"

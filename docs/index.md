@@ -35,8 +35,8 @@ description: 일렉기타, 레스폴 타입, 픽업, 중고 구매 기준을 사
   </a>
   <a class="path-card" href="{{ '/guides/gibson-guitars-pickups.html' | relative_url }}">
     <span class="path-card__number">02</span>
-    <strong>Gibson 바디와 픽업 이해</strong>
-    <p>Les Paul, SG, ES, Firebird, P-90, BurstBucker처럼 헷갈리는 용어를 빠르게 정리합니다.</p>
+    <strong>Gibson 바디, 넥, 픽업 이해</strong>
+    <p>Les Paul, SG, ES, Firebird, 50s/60s 넥감, P-90, BurstBucker처럼 헷갈리는 용어를 빠르게 정리합니다.</p>
   </a>
   <a class="path-card" href="{{ '/guides/epiphone-les-paul-guide.html' | relative_url }}">
     <span class="path-card__number">03</span>
@@ -61,10 +61,10 @@ description: 일렉기타, 레스폴 타입, 픽업, 중고 구매 기준을 사
     title="Gibson 기타 종류와 픽업 정리"
     url="/guides/gibson-guitars-pickups.html"
     category="브랜드/픽업"
-    updated="2026-07-01"
+    updated="2026-07-02"
     image="/assets/images/diagrams/gibson-body-types.svg"
     alt="Gibson Les Paul, SG, ES, Explorer, Flying V, Firebird 바디 타입을 비교한 다이어그램"
-    summary="Les Paul, SG, ES, Explorer, Firebird와 대표 Gibson 픽업 성향을 정리합니다."
+    summary="Les Paul, SG, ES, Explorer, Firebird와 Gibson 넥감, 대표 픽업 성향을 정리합니다."
   %}
   {% include article-card.html
     title="레스폴 타입 일렉기타 중고 구매 가이드"
@@ -82,6 +82,7 @@ description: 일렉기타, 레스폴 타입, 픽업, 중고 구매 기준을 사
 <div class="category-list">
   <a href="{{ '/guides/budget-les-paul-guide.html' | relative_url }}">구매 가이드</a>
   <a href="{{ '/guides/gibson-guitars-pickups.html' | relative_url }}">브랜드/모델 정리</a>
+  <a href="{{ '/guides/gibson-guitars-pickups.html#gibson-neck-profiles' | relative_url }}">넥 프로파일 이해</a>
   <a href="{{ '/guides/gibson-guitars-pickups.html#gibson-pickups' | relative_url }}">픽업/부품 이해</a>
   <a href="{{ '/guides/budget-les-paul-guide.html#used-buying-checklist' | relative_url }}">중고 거래 체크리스트</a>
   <a href="{{ '/data/' | relative_url }}">모델 비교 데이터</a>
@@ -103,6 +104,6 @@ description: 일렉기타, 레스폴 타입, 픽업, 중고 구매 기준을 사
 
 <div class="update-list">
   <a href="{{ '/guides/epiphone-les-paul-guide.html' | relative_url }}"><span>2026-07-01</span> 에피폰 레스폴 모델 가이드 추가</a>
-  <a href="{{ '/guides/gibson-guitars-pickups.html' | relative_url }}"><span>2026-07-01</span> Gibson 기타 종류와 픽업 정리</a>
+  <a href="{{ '/guides/gibson-guitars-pickups.html' | relative_url }}"><span>2026-07-02</span> Gibson 기타 종류와 픽업 정리</a>
   <a href="{{ '/guides/budget-les-paul-guide.html' | relative_url }}"><span>2026-07-01</span> 레스폴 타입 일렉기타 중고 구매 가이드</a>
 </div>
