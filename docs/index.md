@@ -4,17 +4,25 @@ title: Guitar Notes KR
 description: 일렉기타, 레스폴 타입, 픽업, 중고 구매 기준을 사진과 표로 정리한 한국어 기타 노트
 ---
 
-<section class="home-hero">
-  <p class="eyebrow">Korean electric guitar guide notes</p>
-  <h1>일렉기타를 고르기 전 보는 한국어 기타 노트</h1>
-  <p class="lead">
-    레스폴 타입, Gibson·Epiphone, 픽업, 중고 거래 체크포인트를
-    사진과 표, 출처와 함께 차분하게 정리합니다.
-  </p>
-  <div class="hero-actions">
-    <a class="button-primary" href="{{ '/guides/budget-les-paul-guide.html' | relative_url }}">중고 레스폴 구매 가이드</a>
-    <a class="button-secondary" href="{{ '/guides/epiphone-les-paul-guide.html' | relative_url }}">에피폰 레스폴 모델 비교</a>
+<section class="home-hero home-hero--with-image">
+  <div class="home-hero__copy">
+    <p class="eyebrow">Korean electric guitar guide notes</p>
+    <h1>일렉기타를 고르기 전 보는 한국어 기타 노트</h1>
+    <p class="lead">
+      레스폴 타입, Gibson·Epiphone, 픽업, 중고 거래 체크포인트를
+      사진과 표, 출처와 함께 차분하게 정리합니다.
+    </p>
+    <div class="hero-actions">
+      <a class="button-primary" href="{{ '/guides/budget-les-paul-guide.html' | relative_url }}">중고 레스폴 구매 가이드</a>
+      <a class="button-secondary" href="{{ '/guides/epiphone-les-paul-guide.html' | relative_url }}">에피폰 레스폴 모델 비교</a>
+    </div>
   </div>
+  <img
+    class="home-hero__image"
+    src="{{ '/assets/images/diagrams/les-paul-controls.svg' | relative_url }}"
+    alt="레스폴 타입 기타의 픽업, 브릿지, 컨트롤 구조를 설명하는 다이어그램"
+    loading="eager"
+  >
 </section>
 
 ## 처음 온 분은 이렇게 읽어보세요
@@ -45,6 +53,8 @@ description: 일렉기타, 레스폴 타입, 픽업, 중고 구매 기준을 사
     url="/guides/epiphone-les-paul-guide.html"
     category="모델 가이드"
     updated="2026-07-01"
+    image="/assets/images/diagrams/les-paul-controls.svg"
+    alt="레스폴 타입 기타의 픽업과 컨트롤 구조를 설명하는 다이어그램"
     summary="현행 IBG/IGC, 구형 Outfit, 입문형·중급형·상위형 라인을 한 번에 비교합니다."
   %}
   {% include article-card.html
@@ -52,6 +62,8 @@ description: 일렉기타, 레스폴 타입, 픽업, 중고 구매 기준을 사
     url="/guides/gibson-guitars-pickups.html"
     category="브랜드/픽업"
     updated="2026-07-01"
+    image="/assets/images/diagrams/les-paul-controls.svg"
+    alt="험버커와 컨트롤 구성을 보여주는 레스폴 타입 기타 다이어그램"
     summary="Les Paul, SG, ES, Explorer, Firebird와 대표 Gibson 픽업 성향을 정리합니다."
   %}
   {% include article-card.html
@@ -59,6 +71,8 @@ description: 일렉기타, 레스폴 타입, 픽업, 중고 구매 기준을 사
     url="/guides/budget-les-paul-guide.html"
     category="중고 구매"
     updated="2026-07-01"
+    image="/assets/images/diagrams/les-paul-controls.svg"
+    alt="중고 기타 점검 포인트가 되는 픽업, 브릿지, 노브 위치 다이어그램"
     summary="국내 중고 시장에서 입문~세컨 기타를 고를 때 볼 모델과 가격대를 정리합니다."
   %}
 </div>
@@ -68,8 +82,8 @@ description: 일렉기타, 레스폴 타입, 픽업, 중고 구매 기준을 사
 <div class="category-list">
   <a href="{{ '/guides/budget-les-paul-guide.html' | relative_url }}">구매 가이드</a>
   <a href="{{ '/guides/gibson-guitars-pickups.html' | relative_url }}">브랜드/모델 정리</a>
-  <a href="{{ '/guides/gibson-guitars-pickups.html#대표-gibson-픽업-정리' | relative_url }}">픽업/부품 이해</a>
-  <a href="{{ '/guides/budget-les-paul-guide.html#중고-구매-체크리스트' | relative_url }}">중고 거래 체크리스트</a>
+  <a href="{{ '/guides/gibson-guitars-pickups.html#주요-gibson-픽업' | relative_url }}">픽업/부품 이해</a>
+  <a href="{{ '/guides/budget-les-paul-guide.html#거래-전-체크리스트' | relative_url }}">중고 거래 체크리스트</a>
   <a href="{{ '/data/' | relative_url }}">모델 비교 데이터</a>
 </div>
 
