@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Gibson neck profile feel map</title>
+  <desc id="desc">Gibson 기타의 50s Vintage, Rounded, SlimTaper, Modern 계열 넥 프로파일의 손에 차는 정도와 연주감을 비교한 도표</desc>
+  <defs>
+    <style>
+      .bg { fill: #f2f5f1; }
+      .title { fill: #202629; font: 800 42px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+      .subtitle { fill: #596369; font: 500 20px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+      .card { fill: #ffffff; stroke: #ced8cf; stroke-width: 2; rx: 8; }
+      .label { fill: #202629; font: 800 25px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+      .text { fill: #4f5a60; font: 500 17px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+      .note { fill: #263033; font: 700 16px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+      .fretboard { fill: #4f3526; stroke: #2a1c16; stroke-width: 4; }
+      .neck { fill: #c98f52; stroke: #7b4f28; stroke-width: 5; }
+      .neck-light { fill: #e1a766; stroke: #7b4f28; stroke-width: 5; }
+      .line { stroke: #8d9891; stroke-width: 3; stroke-linecap: round; }
+      .bar-bg { fill: #e8ece7; }
+      .bar-fill { fill: #59784c; }
+      .bar-fill-2 { fill: #307c97; }
+      .bar-fill-3 { fill: #ba7a28; }
+      .bar-fill-4 { fill: #a85645; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1200" height="675"/>
+  <text class="title" x="70" y="78">Gibson 넥감은 프로파일이 가릅니다</text>
+  <text class="subtitle" x="70" y="114">같은 24.75인치 스케일, 12인치 지판 반경이어도 두께와 어깨감은 다르게 느껴집니다.</text>
+
+  <g transform="translate(60 158)">
+    <rect class="card" width="255" height="360"/>
+    <text class="label" x="26" y="42">50s Vintage</text>
+    <rect class="fretboard" x="51" y="84" width="153" height="30" rx="4"/>
+    <path class="neck" d="M51 112 C62 210 193 210 204 112 Z"/>
+    <line class="line" x1="66" y1="126" x2="190" y2="126"/>
+    <text class="text" x="26" y="246">손에 꽉 차는 두꺼운 C</text>
+    <text class="text" x="26" y="273">리듬과 코드에서 안정감</text>
+    <text class="note" x="26" y="306">예: Les Paul Standard 50s</text>
+    <rect class="bar-bg" x="26" y="324" width="203" height="14" rx="7"/>
+    <rect class="bar-fill" x="26" y="324" width="188" height="14" rx="7"/>
+  </g>
+
+  <g transform="translate(335 158)">
+    <rect class="card" width="255" height="360"/>
+    <text class="label" x="26" y="42">Rounded</text>
+    <rect class="fretboard" x="51" y="84" width="153" height="30" rx="4"/>
+    <path class="neck-light" d="M51 112 C67 192 188 192 204 112 Z"/>
+    <line class="line" x1="68" y1="126" x2="188" y2="126"/>
+    <text class="text" x="26" y="246">둥근 C, 과하지 않은 두께</text>
+    <text class="text" x="26" y="273">SG에서 많이 만나는 편안함</text>
+    <text class="note" x="26" y="306">예: SG Standard</text>
+    <rect class="bar-bg" x="26" y="324" width="203" height="14" rx="7"/>
+    <rect class="bar-fill-3" x="26" y="324" width="152" height="14" rx="7"/>
+  </g>
+
+  <g transform="translate(610 158)">
+    <rect class="card" width="255" height="360"/>
+    <text class="label" x="26" y="42">SlimTaper</text>
+    <rect class="fretboard" x="51" y="84" width="153" height="30" rx="4"/>
+    <path class="neck" d="M51 112 C77 166 178 166 204 112 Z"/>
+    <line class="line" x1="74" y1="126" x2="181" y2="126"/>
+    <text class="text" x="26" y="246">얇고 빠른 60s 계열 감각</text>
+    <text class="text" x="26" y="273">포지션 이동과 리드에 유리</text>
+    <text class="note" x="26" y="306">예: LP Standard 60s, ES-335 60s</text>
+    <rect class="bar-bg" x="26" y="324" width="203" height="14" rx="7"/>
+    <rect class="bar-fill-2" x="26" y="324" width="106" height="14" rx="7"/>
+  </g>
+
+  <g transform="translate(885 158)">
+    <rect class="card" width="255" height="360"/>
+    <text class="label" x="26" y="42">Modern</text>
+    <rect class="fretboard" x="51" y="84" width="153" height="30" rx="4"/>
+    <path class="neck-light" d="M51 112 C74 174 181 174 204 112 Z"/>
+    <path d="M88 166 C120 188 174 179 196 140" fill="none" stroke="#a85645" stroke-width="7" stroke-linecap="round"/>
+    <text class="text" x="26" y="246">얇은 계열에 현대식 힐 컷</text>
+    <text class="text" x="26" y="273">상위 프렛 접근성과 범용성</text>
+    <text class="note" x="26" y="306">예: Les Paul Modern</text>
+    <rect class="bar-bg" x="26" y="324" width="203" height="14" rx="7"/>
+    <rect class="bar-fill-4" x="26" y="324" width="126" height="14" rx="7"/>
+  </g>
+
+  <g transform="translate(78 560)">
+    <rect x="0" y="0" width="1044" height="58" rx="8" fill="#ffffff" stroke="#ced8cf" stroke-width="2"/>
+    <text class="note" x="24" y="35">체감 순서: 50s Vintage가 가장 손에 차고, Rounded는 안정적인 C, SlimTaper는 얇고 빠른 편, Modern은 힐 컷과 복합 반경까지 함께 봅니다.</text>
+  </g>
+</svg>
