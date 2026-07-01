@@ -9,6 +9,7 @@ title: Guitar Notes KR
 
 ## 최근 글
 
+- [에피폰 레스폴 모델 가이드](guides/epiphone-les-paul-guide.md)
 - [Gibson 기타 종류와 픽업 정리](guides/gibson-guitars-pickups.md)
 - [레스폴 타입 일렉기타 중고 구매 가이드](guides/budget-les-paul-guide.md)
 
