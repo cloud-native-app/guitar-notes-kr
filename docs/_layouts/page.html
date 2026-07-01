@@ -22,10 +22,10 @@ layout: default
   <div class="post-content">
     {{ content }}
 
-    {% if page.path contains 'guides/' %}
+    {% if page.path contains 'guides/' and page.category %}
       <section class="source-box guide-source-standard">
-        <h2>참고 출처와 확인 기준</h2>
-        <p>이 글은 공식 제품 페이지, 브랜드 컬렉션 페이지, 국내외 판매 페이지, 공개 가격 정보를 비교해 작성했습니다.</p>
+        <h2>확인 기준</h2>
+        <p>이 글의 스펙, 가격, 중고 판단은 공개 자료와 실제 구매 체크포인트를 구분해 정리했습니다.</p>
         <ul>
           <li>공식 스펙은 브랜드와 제조사 페이지를 우선합니다.</li>
           <li>가격은 작성 또는 수정일 기준 공개 가격을 참고합니다.</li>
