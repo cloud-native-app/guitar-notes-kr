@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
   <title id="title">Gibson pickup type comparison</title>
-  <desc id="desc">Gibson 계열에서 자주 만나는 P-90, PAF 험버커, 미니 험버커, Firebird 픽업, 고출력 험버커의 외형과 성향을 비교한 도표</desc>
+  <desc id="desc">Gibson 계열에서 자주 만나는 P-90, 커버드 PAF 험버커, 미니 험버커, Firebird 픽업, 오픈 코일 고출력 험버커의 외형과 성향을 비교한 도표</desc>
   <defs>
     <style>
       .bg { fill: #f7f3ec; }
@@ -23,7 +23,7 @@
 
   <rect class="bg" width="1200" height="675"/>
   <text class="title" x="70" y="76">Gibson 픽업 외형과 성향</text>
-  <text class="subtitle" x="70" y="112">커버 색상보다 구조, 출력, 장착 모델을 함께 확인하는 것이 안전합니다.</text>
+  <text class="subtitle" x="70" y="112">커버드와 오픈 코일은 외관 차이이며, 구조, 출력, 장착 모델을 함께 확인해야 합니다.</text>
 
   <g transform="translate(60 155)">
     <rect class="card" width="330" height="220"/>
@@ -43,7 +43,7 @@
 
   <g transform="translate(435 155)">
     <rect class="card" width="330" height="220"/>
-    <text class="label" x="28" y="42">PAF Humbucker</text>
+    <text class="label" x="28" y="42">Covered PAF</text>
     <rect class="pickup-metal" x="54" y="75" width="222" height="78" rx="12"/>
     <line x1="165" y1="82" x2="165" y2="146" stroke="#8a9298" stroke-width="4"/>
     <g transform="translate(79 105)">
@@ -54,8 +54,8 @@
       <circle class="pole" cx="120" cy="0" r="8"/>
       <circle class="pole" cx="150" cy="0" r="8"/>
     </g>
-    <text class="text" x="28" y="178">노이즈 억제, 빈티지 중역</text>
-    <text class="note" x="28" y="205">'57 Classic, BurstBucker</text>
+    <text class="text" x="28" y="178">금속 커버, 빈티지 이미지</text>
+    <text class="note" x="28" y="205">'57 Classic, BurstBucker 계열</text>
   </g>
 
   <g transform="translate(810 155)">
@@ -80,7 +80,7 @@
 
   <g transform="translate(625 410)">
     <rect class="card" width="330" height="205"/>
-    <text class="label" x="28" y="42">Modern High Output</text>
+    <text class="label" x="28" y="42">Open-coil High Output</text>
     <rect class="pickup-dark" x="55" y="74" width="220" height="70" rx="10"/>
     <line x1="165" y1="81" x2="165" y2="137" stroke="#5b6266" stroke-width="4"/>
     <rect class="magnet" x="83" y="99" width="56" height="18" rx="9"/>
