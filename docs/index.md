@@ -82,8 +82,8 @@ description: 일렉기타, 레스폴 타입, 픽업, 중고 구매 기준을 사
 <div class="category-list">
   <a href="{{ '/guides/budget-les-paul-guide.html' | relative_url }}">구매 가이드</a>
   <a href="{{ '/guides/gibson-guitars-pickups.html' | relative_url }}">브랜드/모델 정리</a>
-  <a href="{{ '/guides/gibson-guitars-pickups.html#주요-gibson-픽업' | relative_url }}">픽업/부품 이해</a>
-  <a href="{{ '/guides/budget-les-paul-guide.html#거래-전-체크리스트' | relative_url }}">중고 거래 체크리스트</a>
+  <a href="{{ '/guides/gibson-guitars-pickups.html#gibson-pickups' | relative_url }}">픽업/부품 이해</a>
+  <a href="{{ '/guides/budget-les-paul-guide.html#used-buying-checklist' | relative_url }}">중고 거래 체크리스트</a>
   <a href="{{ '/data/' | relative_url }}">모델 비교 데이터</a>
 </div>
 
